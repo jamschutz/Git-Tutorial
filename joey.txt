@@ -1,4 +1,4 @@
 1. create your own file, in your own local copy
 2. name it YOURNAME.txt
 3. commit it 
-4. push it up
+4. push it up   
