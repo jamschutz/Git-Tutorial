@@ -1,10 +1,10 @@
-<<<<<<< HEAD
+
 paige
-=======
+
 Hello this is Sally's change
 
 Ramon:)
->>>>>>> 2c42d685eb562ff3deb6b68b2970b1ee98688457
+
 
 
 
