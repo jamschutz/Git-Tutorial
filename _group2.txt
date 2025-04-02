@@ -1,3 +1,7 @@
 henry
 james
+<<<<<<< HEAD
 jessica
+=======
+Taylor
+>>>>>>> 1ce89237a408b10d03833f1cad846ddb062f9013
